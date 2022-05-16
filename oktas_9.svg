@@ -1,0 +1,10 @@
+<svg width="600" height="600" xmlns="http://www.w3.org/2000/svg">
+ <title>oktas-9</title>
+
+ <g>
+  <title>Layer 1</title>
+  <ellipse stroke-width="13" ry="290" rx="290" id="svg_1" cy="300" cx="300" stroke="#000" fill="#fff"/>
+  <path transform="rotate(45, 300, 299.5)" id="svg_5" d="m300,594l0,-589" opacity="undefined" stroke-width="13" stroke="#000" fill="none"/>
+  <line transform="rotate(45, 300, 300)" fill="none" stroke="#000" stroke-width="13" x1="5" y1="300" x2="595" y2="300" id="svg_2"/>
+ </g>
+</svg>

@@ -1,4 +1,5 @@
 # Oktas Icons (SVG)
+<img src="https://github.com/Fyruz/oktas-icons/blob/main/oktas_0.svg" width="200" height="200" />
 ![Oktas 0](https://github.com/Fyruz/oktas-icons/blob/main/oktas_0.svg =100x100)
 ![Oktas 1](https://github.com/Fyruz/oktas-icons/blob/main/oktas_1.svg =100x100)
 ![Oktas 2](https://github.com/Fyruz/oktas-icons/blob/main/oktas_2.svg =100x100)

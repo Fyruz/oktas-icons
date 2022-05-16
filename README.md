@@ -1,12 +1,11 @@
 # Oktas Icons (SVG)
-<img src="https://github.com/Fyruz/oktas-icons/blob/main/oktas_0.svg" width="200" height="200" />
-![Oktas 0](https://github.com/Fyruz/oktas-icons/blob/main/oktas_0.svg =100x100)
-![Oktas 1](https://github.com/Fyruz/oktas-icons/blob/main/oktas_1.svg =100x100)
-![Oktas 2](https://github.com/Fyruz/oktas-icons/blob/main/oktas_2.svg =100x100)
-![Oktas 3](https://github.com/Fyruz/oktas-icons/blob/main/oktas_3.svg =100x100)
-![Oktas 4](https://github.com/Fyruz/oktas-icons/blob/main/oktas_4.svg =100x100)
-![Oktas 5](https://github.com/Fyruz/oktas-icons/blob/main/oktas_5.svg =100x100)
-![Oktas 6](https://github.com/Fyruz/oktas-icons/blob/main/oktas_6.svg =100x100)
-![Oktas 7](https://github.com/Fyruz/oktas-icons/blob/main/oktas_7.svg =100x100)
-![Oktas 8](https://github.com/Fyruz/oktas-icons/blob/main/oktas_8.svg =100x100)
-![Oktas 9](https://github.com/Fyruz/oktas-icons/blob/main/oktas_9.svg =100x100)
+<img src="https://github.com/Fyruz/oktas-icons/blob/main/oktas_0.svg" width="100" height="100" />
+<img src="https://github.com/Fyruz/oktas-icons/blob/main/oktas_1.svg" width="100" height="100" />
+<img src="https://github.com/Fyruz/oktas-icons/blob/main/oktas_2.svg" width="100" height="100" />
+<img src="https://github.com/Fyruz/oktas-icons/blob/main/oktas_3.svg" width="100" height="100" />
+<img src="https://github.com/Fyruz/oktas-icons/blob/main/oktas_4.svg" width="100" height="100" />
+<img src="https://github.com/Fyruz/oktas-icons/blob/main/oktas_5.svg" width="100" height="100" />
+<img src="https://github.com/Fyruz/oktas-icons/blob/main/oktas_6.svg" width="100" height="100" />
+<img src="https://github.com/Fyruz/oktas-icons/blob/main/oktas_7.svg" width="100" height="100" />
+<img src="https://github.com/Fyruz/oktas-icons/blob/main/oktas_8.svg" width="100" height="100" />
+<img src="https://github.com/Fyruz/oktas-icons/blob/main/oktas_9.svg" width="100" height="100" />

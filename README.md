@@ -1,5 +1,6 @@
 # Oktas Icons (SVG)
 Free to use / modify
+<br>
 <img src="https://github.com/Fyruz/oktas-icons/blob/main/oktas_0.svg" width="100" height="100" />
 <img src="https://github.com/Fyruz/oktas-icons/blob/main/oktas_1.svg" width="100" height="100" />
 <img src="https://github.com/Fyruz/oktas-icons/blob/main/oktas_2.svg" width="100" height="100" />

@@ -1,1 +1,1 @@
-# oktas-icons
+# Oktas Icons (SVG)
